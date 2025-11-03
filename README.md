@@ -1,6 +1,5 @@
 # Sensor_inercial
 
-No sé cómo actualizarlo, pero puse esto:
 Reconocimiento de Actividades de la Vida Diaria mediante sensores inerciales y Machine Learning
 Este repositorio contiene el código principal en MATLAB para obtener las características de datos de sensores inerciales (IMU) adquiridos de 5 sujetos que realizaron actividades de subir escaleras, bajar escaleras y descanso.
 
