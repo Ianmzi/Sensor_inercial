@@ -41,7 +41,7 @@ Su objetivo principal es **cargar las mediciones de un sensor IMU (Unidad de Med
 ###  Funcionalidades
 
 ####  Importación de datos
-Carga un archivo `.csv` que contiene mediciones registradas por el sensor inercial.  
+Carga el archivo `251030143106.csv` que contiene mediciones registradas por el sensor inercial.  
 Estas mediciones incluyen tres canales principales: **acelerómetro, giroscopio y ángulo**.
 
 ####  Preprocesamiento
