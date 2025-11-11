@@ -80,6 +80,7 @@ El modelo **Árbol de Decisión** (`ModeloFinal_ArbolDecision.mat`) predice la c
 > **Subir escaleras**, **Bajar escaleras** o **Reposo**.  
 
 Además, la app genera una **matriz de confusión** que permite visualizar el rendimiento del modelo comparando las predicciones con las etiquetas reales del usuario.
+![Matriz de confusión](img/mi_segunda_mtxconfu.png)
 
 
 📁 **Estructura de salida esperada:**
